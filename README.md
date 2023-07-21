@@ -48,4 +48,4 @@ SoulSpark Quotes is released under the [MIT License](LICENSE), allowing you to u
 
 Join us in the journey of enlightenment and inspiration. Let SoulSpark Quotes kindle the fire within and illuminate your path to greatness. Happy quoting!
 
-*Follow us on LinkedIN: (https://www.linkedin.com/in/namansharma12/)https://www.linkedin.com/in/namansharma12/
+*Follow us on LinkedIN: https://www.linkedin.com/in/namansharma12/
